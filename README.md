@@ -21,3 +21,5 @@ components.d.ts
   - example registry=https://registry.npm.taobao.org
 
 
+部署地址-自动化部署
+https://app.netlify.com/sites/illustrious-beignet-4c5875/overview
