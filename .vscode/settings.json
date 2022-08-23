@@ -1,0 +1,12 @@
+{
+  "cSpell.words": ["Vitesse"],
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  // 保存的时候是否格式化
+  "editor.formatOnSave": false
+}
